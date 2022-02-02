@@ -8,7 +8,10 @@ body {
 } 
 
 #minha_foto {
-    width: 300px;
+width: 300px;
+padding-top: 100px;
+margin-right:100px;
+border: 10px;
 }
 .icone {
     height: 30px;
